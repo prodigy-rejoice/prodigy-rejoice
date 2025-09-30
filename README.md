@@ -7,7 +7,7 @@ I am a skilled Mobile Engineer with over 2 years of experience creating user-fri
 
 I am a skilled Flutter developer with deep technical expertise in:
 - Flutter and Dart programming languages
-- Writing clean easy-to-understand codes
+- Writing clean, easy-to-understand codes
 - Building custom UI components
 - Cloning and creating beautiful and user-friendly UIs
 - Integrating APIs
@@ -17,4 +17,4 @@ I am a skilled Flutter developer with deep technical expertise in:
 
 ## 📫 How to reach me
 
-Feel free to reach out to me via [email](omotunwaserejoice@gmail.com) or connect with me on [X (Twitter)](https://x.com/prodigy_rejoice). Let’s collaborate and create innovative, groundbreaking products together!
+Feel free to reach out to me via [email](omotunwaserejoice@gmail.com) or connect with me on [LinkedIn)](linkedin.com/in/rejoice-omotunwase-40285937a). Let’s collaborate and create innovative, groundbreaking products together!
