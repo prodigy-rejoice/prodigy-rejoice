@@ -17,4 +17,4 @@ I am a skilled Flutter developer with deep technical expertise in:
 
 ## 📫 How to reach me
 
-Feel free to reach out to me via [email](omotunwaserejoice@gmail.com) or connect with me on [LinkedIn)](linkedin.com/in/rejoice-omotunwase-40285937a). Let’s collaborate and create innovative, groundbreaking products together!
+Feel free to reach out to me via [email](omotunwaserejoice@gmail.com) or connect with me on [LinkedIn)](www.linkedin.com/in/rejoiceomotunwase). Let’s collaborate and create innovative, groundbreaking products together!
