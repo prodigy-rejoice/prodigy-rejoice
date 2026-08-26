@@ -11,13 +11,13 @@ I am also expanding beyond mobile development into broader software engineering,
 
 I am a skilled Flutter developer with deep technical expertise in:
 - Flutter and Dart programming languages
-- Writing clean, easy-to-understand codes
+- App architecture and modularization
 - Building custom UI components
-- Cloning and creating beautiful and user-friendly UIs
+- Responsive UI development
 - Integrating APIs
 - Firebase integration
 - Push Notification integration
-- Proper state management
+- AI-powered application features 
 
 ## 📫 How to reach me
 
