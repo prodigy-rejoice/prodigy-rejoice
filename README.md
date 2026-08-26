@@ -1,7 +1,11 @@
 # Hi there 👋 I'm Rejoice Omotunwase, a Mobile Engineer 
 ## Welcome to my page 😊
 
-I am a skilled Mobile Engineer with over 2 years of experience creating user-friendly applications. I specialize in Flutter to develop efficient cross-platform apps for both Android and iOS platforms. I am passionate about leveraging technology to solve real-world problems and continuously exploring new ways to enhance user experience in the apps I create.
+I am a skilled Mobile Software Engineer, well-experienced in building and shipping production-ready mobile applications for Android and iOS.
+
+I specialize in Flutter and Dart, with a strong focus on clean, maintainable architecture, scalable state management, API integration, and polished user experiences.
+
+I am also expanding beyond mobile development into broader software engineering, with interests in backend systems, distributed systems, and AI-powered applications.
 
 ## 👨‍💻 My technical expertise
 
